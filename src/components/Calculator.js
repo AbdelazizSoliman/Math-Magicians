@@ -1,7 +1,10 @@
+import DisplayResult from './DisplayResult';
+
 function Calculator() {
   return (
     <div className="calc">
-      <input type="text" value="0" id="result" />
+      <DisplayResult />
+      {/* <input type="text" value="0" id="result" /> */}
       <input type="button" value="AC" className="button light-gray" />
       <input type="button" value="+/-" className="button light-gray" />
       <input type="button" value="%" className="button light-gray" />
