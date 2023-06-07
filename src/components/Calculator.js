@@ -1,4 +1,4 @@
-function Calc() {
+function Calculator() {
   return (
     <div className="calc">
       <input type="text" value="0" id="result" />
@@ -25,4 +25,4 @@ function Calc() {
   );
 }
 
-export default Calc;
+export default Calculator;
