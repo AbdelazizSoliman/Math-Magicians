@@ -20,7 +20,7 @@ function Calculator() {
       <input type="button" value="AC" className="button light-gray" onClick={() => handleButtonClick('AC')} />
       <input type="button" value="+/-" className="button light-gray" onClick={() => handleButtonClick('+/-')} />
       <input type="button" value="%" className="button light-gray" onClick={() => handleButtonClick('%')} />
-      <input type="button" value="/" className="button orange" onClick={() => handleButtonClick('/')} />
+      <input type="button" value="÷" className="button orange" onClick={() => handleButtonClick('÷')} />
       <input type="button" value="7" className="button light-gray" onClick={() => handleButtonClick('7')} />
       <input type="button" value="8" className="button light-gray" onClick={() => handleButtonClick('8')} />
       <input type="button" value="9" className="button light-gray" onClick={() => handleButtonClick('9')} />
