@@ -1,0 +1,21 @@
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(156, 175, 182, 0.432);
+  width: 80%;
+  height: 100%;
+  padding: 2rem;
+  margin: auto;
+  border-radius: 30px;
+  font-size: 2rem;
+}
+
+.author {
+  color: rgb(10, 10, 10);
+}
+
+.quote {
+  color: rgb(7, 12, 87);
+}
