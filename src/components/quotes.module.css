@@ -1,0 +1,16 @@
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(133, 211, 240, 0.432);
+  padding: 2rem;
+  margin: auto;
+  border-radius: 30px;
+  font-size: 2rem;
+}
+
+.author {
+  color: rgb(40, 43, 97);
+  margin-top: 1rem;
+}
