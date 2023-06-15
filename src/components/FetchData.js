@@ -45,7 +45,6 @@ const FetchData = () => {
 
   return (
     <div className={styles.quote}>
-      <h2>Quote</h2>
       <p className={styles.quote}>{quote}</p>
       <p className={styles.author}>{author}</p>
     </div>

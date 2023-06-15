@@ -3,9 +3,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: rgba(156, 175, 182, 0.432);
-  width: 80%;
-  height: 100%;
+  background-color: rgba(133, 211, 240, 0.432);
   padding: 2rem;
   margin: auto;
   border-radius: 30px;
@@ -13,5 +11,6 @@
 }
 
 .author {
-  color: rgb(10, 10, 10);
+  color: rgb(40, 43, 97);
+  margin-top: 1rem;
 }

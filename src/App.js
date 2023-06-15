@@ -8,7 +8,7 @@ import NavBar from './components/NavBar';
 import FetchData from './components/FetchData';
 
 const App = () => (
-  <div>
+  <div className="App">
     <NavBar />
     <Routes>
       <Route path="/" element={<Home />} />
